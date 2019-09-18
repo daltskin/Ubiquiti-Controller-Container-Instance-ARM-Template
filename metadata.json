@@ -1,0 +1,8 @@
+{
+  "itemDisplayName": "Deploy the infrastructure to run a Ubiquiti controller in Azure",
+  "icon": "ubuntu",
+  "description": "This template allows you to deploy the Ubiquiti Controller docker image by linuxserver/unifi. It opens up the necessary firewall ports.  This will deploy a A2 size VM in the resource group location and return the FQDN of the VM.",
+  "summary": "Deploy a Unif Controller into Container Instance",
+  "githubUsername": "daltskin",
+  "dateUpdated": "2019-09-17"
+}
